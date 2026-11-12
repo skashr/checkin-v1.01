@@ -1,0 +1,13 @@
+{
+  "name": "checkin-exe",
+  "private": true,
+  "version": "0.1.0",
+  "description": "每日打卡桌面版：数据存为 JSON 文件，可放入网盘同步目录",
+  "scripts": {
+    "tauri": "tauri",
+    "build": "tauri build"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.5.0"
+  }
+}
